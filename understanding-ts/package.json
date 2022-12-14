@@ -7,7 +7,12 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "lite-server"
 	},
-	"author": "",
+	"keywords": [
+		"typescript",
+		"udemy",
+		"compass.uol"
+	],
+	"author": "Davi Torres",
 	"license": "ISC",
 	"devDependencies": {
 		"lite-server": "^2.6.1"
